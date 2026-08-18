@@ -1,47 +1,181 @@
+<a href="https://github.com/localvps">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1f6feb,50:58a6ff,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,20:1f6feb,50:0d1117,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1f6feb,50:58a6ff,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
+</picture>
+
+</a>
+
+<br/>
+
 <div align="center">
 
-# Hey there! I'm Amir 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Linux+Enthusiast;Open+Source+Lover;Welcome+to+my+world!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%96%A8%EF%B8%8F+Building+the+Future;Clean+Code+%7C+Creative+Mind;%F0%9F%9A%80+Always+Learning+%7C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-<br>
+<div align="center">
 
-## 🚀 About Me
+![GitHub Followers](https://img.shields.io/github/followers/localvps?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/localvps?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=localvps&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
-```yaml
-name: "Amir"
-location: "Earth 🌍"
-current_focus: "Building cool stuff"
-coffee_per_day: "∞"
-motto: "Code. Sleep. Repeat."
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   👋 Hello, I'm Amir!                                       ║
+║                                                              ║
+║   🔭 I'm currently working on                               ║
+║       Full Stack Development                                 ║
+║                                                              ║
+║   🌱 I'm currently learning                                  ║
+║       Advanced Systems & Cloud Architecture                  ║
+║                                                              ║
+║   💡 I love building things that matter                      ║
+║                                                              ║
+║   ⚡ Fun fact: I automate everything I can                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br>
+<br/>
 
-## 💫 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=localvps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=localvps&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22"/> Tech Stack
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=localvps&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com)
+<table>
+<tr>
+<td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+<td align="center" width="96">
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+<td align="center" width="96">
+        <a href="https://www.python.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+<td align="center" width="96">
+        <a href="https://nodejs.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        </a>
+        <br>Node.js
+      </td>
+<td align="center" width="96">
+        <a href="https://reactjs.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        </a>
+        <br>React
+      </td>
+<td align="center" width="96">
+        <a href="https://vuejs.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+        </a>
+        <br>Vue.js
+      </td>
+<td align="center" width="96">
+        <a href="https://www.docker.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
+<td align="center" width="96">
+        <a href="https://www.linux.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        </a>
+        <br>Linux
+      </td>
+</tr>
+<tr>
+<td align="center" width="96">
+        <a href="https://www.mysql.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+<td align="center" width="96">
+        <a href="https://www.mongodb.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
+      </td>
+<td align="center" width="96">
+        <a href="https://redis.io/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+        </a>
+        <br>Redis
+      </td>
+<td align="center" width="96">
+        <a href="https://git-scm.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+<td align="center" width="96">
+        <a href="https://aws.amazon.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+        </a>
+        <br>AWS
+      </td>
+<td align="center" width="96">
+        <a href="https://kubernetes.io/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+        </a>
+        <br>Kubernetes
+      </td>
+<td align="center" width="96">
+        <a href="https://www.nginx.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+        </a>
+        <br>Nginx
+      </td>
+<td align="center" width="96">
+        <a href="https://graphql.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+        </a>
+        <br>GraphQL
+      </td>
+</tr>
+</table>
 
 </div>
 
-<br>
+<br/>
 
-## 🏆 Trophies
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=localvps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=localvps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=localvps&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -49,40 +183,28 @@ motto: "Code. Sleep. Repeat."
 
 </div>
 
-<br>
-
-## 🐍 Contribution Graph
+<br/>
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/localvps/localvps/output/github-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=localvps&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&area_color=1f6feb&hide_border=true)
 
 </div>
 
-<br>
-
-## 📊 Activity Graph
+<br/>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=localvps&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake animation](https://raw.githubusercontent.com/localvps/localvps/output/github-snake-dark.svg)
 
 </div>
 
-<br>
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/localvps)
-
-<br>
-
----
+<br/>
 
 <div align="center">
 
-**Thanks for visiting! Have a great day!** ⭐
-
-![Visitor Count](https://profile-counter.glitch.me/localvps/count.svg)
+<a href="https://github.com/localvps">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1f6feb,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
+</a>
 
 </div>
