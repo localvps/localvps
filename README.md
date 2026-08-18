@@ -1,11 +1,9 @@
 <a href="https://github.com/localvps">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1f6feb,50:58a6ff,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,20:1f6feb,50:0d1117,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1f6feb,50:58a6ff,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
 </picture>
-
 </a>
 
 <br/>
@@ -48,7 +46,7 @@
 
 <br/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="22"/> Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -159,43 +157,41 @@
 
 <br/>
 
+## 📊 Contribution Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=localvps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=localvps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api?username=localvps&theme=tokyonight&bg_color=0d1117&stroke=1f6feb)](https://github.com/localvps)
 
 </div>
 
 <br/>
 
+## 🏅 Top Languages
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=localvps&theme=tokyonight&hide_border=true&background=0d1117)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=localvps&theme=tokyonight)](https://github.com/localvps)
 
 </div>
 
 <br/>
 
+## 🔥 GitHub Streak
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=localvps&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=localvps&theme=tokyonight&hide_border=true&background=0d1117)](https://streak-stats.demolab.com)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=localvps&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&area_color=1f6feb&hide_border=true)
-
-</div>
-
-<br/>
+## 📈 Activity Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/localvps/localvps/output/github-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=localvps&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&area_color=1f6feb&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 </div>
 
