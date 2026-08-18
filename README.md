@@ -1,16 +1,6 @@
-<a href="https://github.com/localvps">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1f6feb,50:58a6ff,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,20:1f6feb,50:0d1117,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:1f6feb,50:58a6ff,100:0d1117&height=220&section=header&text=localvps&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Linux%20Enthusiast&descSize=16&descAlignY=55&descAlign=50" />
-</picture>
-</a>
-
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%96%A8%EF%B8%8F+Building+the+Future;Clean+Code+%7C+Creative+Mind;%F0%9F%9A%80+Always+Learning+%7C+Always+Growing)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:FF6B6B,20:C44569,40:6C5CE7,60:0984E3,80:00CEC9,100:FD79A8&height=300&section=header&text=✦%20localvps%20✦&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=%E2%9C%A8%20Full%20Stack%20Wizard%20%E2%9C%A8%20%7C%20Code%20Magician%20%7C%20Linux%20Alchemist&descSize=18&descAlignY=55&descAlign=50&rotate=0&stroke=ffffff&strokeWidth=2)
 
 </div>
 
@@ -18,78 +8,234 @@
 
 <div align="center">
 
-![GitHub Followers](https://img.shields.io/github/followers/localvps?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/localvps?label=Stars&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=localvps&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+### ═══════════════════════════════════════
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✧ *DRAGONS CODE IN THIS REALM* ✧
+### ═══════════════════════════════════════
 
 </div>
 
 <br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   👋 Hello, I'm Amir!                                       ║
-║                                                              ║
-║   🔭 I'm currently working on                               ║
-║       Full Stack Development                                 ║
-║                                                              ║
-║   🌱 I'm currently learning                                  ║
-║       Advanced Systems & Cloud Architecture                  ║
-║                                                              ║
-║   💡 I love building things that matter                      ║
-║                                                              ║
-║   ⚡ Fun fact: I automate everything I can                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+   ╔══════════════════════╗
+   ║   ★ I AM THE CODE ★  ║
+   ║    WIZARD AMIR!      ║
+   ║                      ║
+   ║  ⚔️ Forge: Servers   ║
+   ║  🛡️ Shield: Linux    ║
+   ║  🔮 Spell: Code      ║
+   ╚══════════════════════╝
 ```
 
-<br/>
+</td>
+<td align="center">
 
-### 🛠️ Tech Stack
+```
+   ╔══════════════════════╗
+   ║  ◈ REALM STATS ◈     ║
+   ║                      ║
+   ║  🏰 Repos:  5+       ║
+   ║  ⭐ Stars:  ∞        ║
+   ║  🐉 Commits: LEGENDARY║
+   ║  🔥 Streak: ON FIRE   ║
+   ╚══════════════════════╝
+```
 
-<div align="center">
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"> |
-| **JavaScript** | **TypeScript** | **Python** | **Node.js** | **React** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"> |
-| **Vue.js** | **Docker** | **Linux** | **MySQL** | **MongoDB** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"> |
-| **Redis** | **Git** | **AWS** | **Kubernetes** | **Nginx** |
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=localvps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=localvps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 🔥 GitHub Streak
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=localvps&theme=tokyonight&hide_border=true&background=0d1117)](https://streak-stats.demolab.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%E2%9D%84%EF%B8%8F+Coding+in+the+Neon+Dimension+%E2%9D%84%EF%B8%8F;⚡+Where+Coffee+Meets+Cyberpunk+⚡;🐉+Building+Dragons+Out+of+Code+🐉)
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
+<div align="center">
+
+![Followers](https://img.shields.io/badge/%F0%9F%91%8D_Followers-localvps-blue?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/%E2%AD%90_Stars-localvps-yellow?style=for-the-badge&logo=github)
+![Views](https://komarev.com/ghpvc/?username=localvps&color=FF6B6B&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+---
+
+## 🏰 &nbsp;**⚔️ THE ARSENAL OF TOOLS** ⚔️**
+
+<br/>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=localvps&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&area_color=1f6feb&hide_border=true)](https://github-readme-activity-graph.vercel.app)
+<table>
+<tr>
+<td align="center" width="120">
+
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+<br/>
+<sub>**JavaScript**</sub>
+
+</td>
+<td align="center" width="120">
+
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+<br/>
+<sub>**TypeScript**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<br/>
+<sub>**Python**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+<br/>
+<sub>**Node.js**</sub>
+
+</td>
+<td align="center" width="120">
+
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+<br/>
+<sub>**React**</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+<br/>
+<sub>**Docker**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+<br/>
+<sub>**Linux**</sub>
+
+</td>
+<td align="center" width="120">
+
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
+<br/>
+<sub>**AWS**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+<br/>
+<sub>**Git**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
+<br/>
+<sub>**Kubernetes**</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+<br/>
+<sub>**MySQL**</sub>
+
+</td>
+<td align="center" width="120">
+
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+<br/>
+<sub>**MongoDB**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)
+<br/>
+<sub>**Redis**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)
+<br/>
+<sub>**Nginx**</sub>
+
+</td>
+<td align="center" width="120">
+
+![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)
+<br/>
+<sub>**Vue.js**</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🎮 &nbsp;**📊 QUEST STATS** 📊**
+
+<br/>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=localvps&theme=tokyonight&hide_border=true&background=0d1117&border=FF6B6B)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=localvps&bg_color=0d1117&color=FF6B6B&line=C44569&point=0984E3&area=true&area_color=6C5CE7&hide_border=true)](https://github-readme-activity-graph.vercel.app)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ═══════════════════════════════════════
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦ *ENTER THE VOID* ✦
+### ═══════════════════════════════════════
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=20&duration=4000&pause=2000&color=C44569&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+The+Code+Never+Sleeps+%F0%9F%94%A5;%E2%9A%A1+Building+Tomorrow+Today+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -98,7 +244,7 @@
 <div align="center">
 
 <a href="https://github.com/localvps">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1f6feb,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FD79A8,20:E84393,40:A855F7,60:6C5CE7,80:0984E3,100:00CEC9&height=120&section=footer" width="100%"/>
 </a>
 
 </div>
