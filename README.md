@@ -50,128 +50,26 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-<td align="center" width="96">
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        </a>
-        <br>TypeScript
-      </td>
-<td align="center" width="96">
-        <a href="https://www.python.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-      </td>
-<td align="center" width="96">
-        <a href="https://nodejs.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        </a>
-        <br>Node.js
-      </td>
-<td align="center" width="96">
-        <a href="https://reactjs.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-      </td>
-<td align="center" width="96">
-        <a href="https://vuejs.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-        </a>
-        <br>Vue.js
-      </td>
-<td align="center" width="96">
-        <a href="https://www.docker.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        </a>
-        <br>Docker
-      </td>
-<td align="center" width="96">
-        <a href="https://www.linux.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        </a>
-        <br>Linux
-      </td>
-</tr>
-<tr>
-<td align="center" width="96">
-        <a href="https://www.mysql.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        </a>
-        <br>MySQL
-      </td>
-<td align="center" width="96">
-        <a href="https://www.mongodb.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-<td align="center" width="96">
-        <a href="https://redis.io/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-        </a>
-        <br>Redis
-      </td>
-<td align="center" width="96">
-        <a href="https://git-scm.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-<td align="center" width="96">
-        <a href="https://aws.amazon.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
-        </a>
-        <br>AWS
-      </td>
-<td align="center" width="96">
-        <a href="https://kubernetes.io/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-        </a>
-        <br>Kubernetes
-      </td>
-<td align="center" width="96">
-        <a href="https://www.nginx.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-        </a>
-        <br>Nginx
-      </td>
-<td align="center" width="96">
-        <a href="https://graphql.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-        </a>
-        <br>GraphQL
-      </td>
-</tr>
-</table>
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"> |
+| **JavaScript** | **TypeScript** | **Python** | **Node.js** | **React** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"> |
+| **Vue.js** | **Docker** | **Linux** | **MySQL** | **MongoDB** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"> |
+| **Redis** | **Git** | **AWS** | **Kubernetes** | **Nginx** |
 
 </div>
 
 <br/>
 
-## 📊 Contribution Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api?username=localvps&theme=tokyonight&bg_color=0d1117&stroke=1f6feb)](https://github.com/localvps)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=localvps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
 
-</div>
-
-<br/>
-
-## 🏅 Top Languages
-
-<div align="center">
-
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=localvps&theme=tokyonight)](https://github.com/localvps)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=localvps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
