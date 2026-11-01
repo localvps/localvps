@@ -36,7 +36,7 @@ const amir = {
 </td>
 <td width="42%" valign="middle">
 
-<img src="https://streak-stats.demolab.com?user=localvps&hide_border=true&background=07080A&stroke=1A1B21&ring=FF5A3C&fire=FF5A3C&currStreakLabel=8A8D96&sideLabels=8A8D96&dates=5A5D66&currStreakNum=F2F2EF&sideNums=F2F2EF&border_radius=12" width="100%" alt="Streak" />
+<img src="./assets/stats.svg" width="100%" alt="45 contributions, 5 repositories, 7 stars" />
 
 </td>
 </tr>
