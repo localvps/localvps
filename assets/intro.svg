@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-label="I build web applications end to end. Clean interfaces on the front, solid services behind them, and just enough infrastructure to keep it running without babysitting.">
+  <defs>
+    <linearGradient id="rim4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5a3c" stop-opacity=".45"/>
+      <stop offset=".45" stop-color="#7f6bff" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#7f6bff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo4" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#7f6bff" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#7f6bff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="460" height="210" rx="16" fill="#0a0b0f"/>
+  <ellipse cx="400" cy="10" rx="200" ry="90" fill="url(#halo4)"/>
+  <rect x=".5" y=".5" width="459" height="209" rx="16" fill="none" stroke="#1c1d24"/>
+  <rect x=".5" y=".5" width="459" height="209" rx="16" fill="none" stroke="url(#rim4)"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <circle cx="26" cy="30" r="3.5" fill="#ff5a3c"/>
+    <text x="39" y="34" font-size="9.5" letter-spacing="2.4" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" fill="#8a8d96">ABOUT</text>
+    <text x="434" y="34" text-anchor="end" font-size="8.5" letter-spacing="2" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" fill="#3d3f47">SINCE 2019</text>
+    <line x1="22" y1="48" x2="438" y2="48" stroke="#1c1d24"/>
+
+    <text x="26" y="86" font-size="13.5" fill="#e6e6e2">I build web applications end to end. Clean interfaces on</text><text x="26" y="108" font-size="13.5" fill="#8a8d96">the front, solid services behind them, and just enough</text><text x="26" y="130" font-size="13.5" fill="#8a8d96">infrastructure to keep it running without babysitting.</text>
+
+    <line x1="26" y1="176" x2="48" y2="176" stroke="#ff5a3c" stroke-width="2"/>
+    <text x="58" y="180" font-size="9" letter-spacing="1.6" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" fill="#5a5d66">ISFAHAN, IRAN</text>
+  </g>
+</svg>

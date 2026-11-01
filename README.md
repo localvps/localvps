@@ -20,9 +20,7 @@
 <tr>
 <td width="50%" valign="middle">
 
-I build web applications end to end. Clean interfaces on the front,
-solid services behind them, and just enough infrastructure to keep it
-running without babysitting.
+<img src="./assets/intro.svg" width="100%" alt="I build web applications end to end." />
 
 </td>
 <td width="50%" valign="middle">
