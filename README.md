@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="middle">
+<td width="50%" valign="middle">
 
 ### `01` — About
 
@@ -34,7 +34,7 @@ const amir = {
 ```
 
 </td>
-<td width="42%" valign="middle">
+<td width="50%" valign="middle">
 
 <img src="./assets/stats.svg" width="100%" alt="45 contributions, 5 repositories, 7 stars" />
 
@@ -111,9 +111,8 @@ const amir = {
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/localvps?style=flat-square&label=followers&color=7F6BFF&labelColor=07080A" alt="Followers" />
-<img src="https://img.shields.io/github/stars/localvps?style=flat-square&label=stars&color=FF5A3C&labelColor=07080A" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/localvps/guardnet?style=flat-square&label=last%20commit&color=8A8D96&labelColor=07080A" alt="Last commit" />
-<img src="https://komarev.com/ghpvc/?username=localvps&style=flat-square&color=8A8D96&label=views&labelColor=07080A" alt="Views" />
+<img src="https://img.shields.io/badge/FOLLOWERS-2-7F6BFF?style=for-the-badge&labelColor=0A0B0F" alt="Followers" />
+<img src="https://img.shields.io/badge/LAST_COMMIT-this_week-8A8D96?style=for-the-badge&labelColor=0A0B0F" alt="Last commit" />
+<img src="https://komarev.com/ghpvc/?username=localvps&style=for-the-badge&color=FF5A3C&label=VISITS&labelColor=0A0B0F" alt="Views" />
 
 </div>
