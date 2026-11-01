@@ -36,7 +36,7 @@ const amir = {
 </td>
 <td width="50%" valign="middle">
 
-<img src="./assets/stats.svg" width="100%" alt="45 contributions, 5 repositories, 7 stars" />
+<img src="./assets/grid.svg" width="100%" alt="45 contributions, 5 repositories, 7 stars" />
 
 </td>
 </tr>
