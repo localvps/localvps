@@ -14,11 +14,11 @@
 
 <br/>
 
+<img src="./assets/sec-01.svg" width="100%" alt="Section 01 — About" />
+
 <table>
 <tr>
 <td width="50%" valign="middle">
-
-### `01` — About
 
 I build web applications end to end. Clean interfaces on the front,
 solid services behind them, and just enough infrastructure to keep it
@@ -42,9 +42,8 @@ const amir = {
 </tr>
 </table>
 
-<br/>
 
-### `02` — Stack
+<img src="./assets/sec-02.svg" width="100%" alt="Section 02 — Stack" />
 
 <table>
 <tr><td align="right" width="90"><sub><b>DAILY</b></sub></td><td>
@@ -57,7 +56,7 @@ const amir = {
 
 <br/>
 
-### `03` — Selected work
+<img src="./assets/sec-03.svg" width="100%" alt="Section 03 — Selected work" />
 
 <table>
 <tr>
