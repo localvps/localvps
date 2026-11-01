@@ -99,14 +99,15 @@ const amir = {
 </table>
 
 <div align="center">
-<a href="https://github.com/localvps?tab=repositories"><img src="https://img.shields.io/badge/all_repositories_%E2%86%97-14131A?style=flat-square&labelColor=FF5A3C" alt="All repositories" /></a>
+<a href="https://github.com/localvps?tab=repositories"><img src="https://img.shields.io/badge/repositories-5-FF5A3C?style=for-the-badge&labelColor=0A0B0F&logo=github&logoColor=FF5A3C" alt="All repositories" /></a>
+<a href="https://github.com/localvps?tab=repositories"><img src="https://img.shields.io/badge/browse_all_%E2%86%97-0A0B0F?style=for-the-badge&labelColor=7F6BFF" alt="Browse all" /></a>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=localvps&theme=github_dark" alt="Activity" width="100%" />
+<img src="./assets/activity.svg" alt="Contribution activity over the past 12 months" width="100%" />
 
 <br/>
 
